@@ -8,4 +8,4 @@ const subs = (a,b)=>{
     return a-b
 }
 
-console.log(add(4,5))
+console.log(subs(4,5))
